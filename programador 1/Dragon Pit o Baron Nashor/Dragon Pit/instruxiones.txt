@@ -1,0 +1,74 @@
+Instrucciones 
+
+ 
+
+El programa debe recibir de parte del usuario uno de las opciones mostradas a continuación, en caso de que no ingrese lo solicitado, se le debe informar al usuario y pedir nuevamente que ingrese una de las opciones. 
+
+Piedra 
+
+Papel 
+
+Tijera 
+
+Lagarto 
+
+Spock  
+
+La computadora elegirá de forma aleatoria una de las 5 opciones. 
+
+Realizar la lógica de comparación para determinar el resultado. 
+
+Mostrar el resultado por consola. 
+
+Luego de terminado el juego, consultar al usuario si quiere continuar jugando o terminar el juego. Si decide continuar, volverá a comenzar desde el principio solicitándole nuevamente una de las opciones. 
+
+Opcionales:  
+
+Llevar un conteo de resultados. Suma 1 punto de actividad extra. 
+
+Devolver los resultados de cada partida por consola utilizando "Arte ASCII". Suma 2 puntos de actividad extra. 
+
+Subir el ejercicio completado de cada integrante de la pareja a sus respectivos Github en la respectiva carpeta. Si ya realizaron la Actividad de "nombre git y github" 
+
+
+
+ 
+
+Inicio del Juego: 
+
+Al iniciar el juego, el jugador y la computadora recibirán dos cartas cada uno. 
+
+La computadora mostrará una carta y ocultará la otra. 
+
+Juego del Jugador: 
+
+El jugador tendrá la opción de pedir más cartas (hit) o quedarse con las cartas actuales (stand). 
+
+El objetivo es llegar lo más cerca posible de 21 sin pasarse. 
+
+Juego de la Computadora: 
+
+Después de que el jugador haya terminado, la computadora revelará su carta oculta y tomará decisiones automáticas para alcanzar o superar al jugador sin pasarse de 21. 
+
+Resultados: 
+
+Se determinará el ganador basándose en las reglas del Blackjack. 
+
+Si el jugador o la computadora superan 21, pierden automáticamente. 
+
+Continuación del Juego: 
+
+Después de cada ronda, preguntar al jugador si desea jugar otra mano. 
+
+Si decide continuar, se le repartirán nuevas cartas; de lo contrario, el juego termina. 
+
+Opcionales: 
+
+Conteo de Puntuación. Llevar un conteo de las victorias y derrotas del jugador. Suma 1 punto de actividad extra. 
+
+Gráficos de cartas. Utilizar caracteres ASCII para representar gráficamente las cartas. Suma 2 puntos de actividad extra. 
+
+Subir el ejercicio completado de cada integrante de la pareja a sus respectivos Github en la respectiva carpeta. Si ya realizaron la Actividad de "nombre git y github". 
+
+Ejemplo de interacción con el usuario: 
+ 
